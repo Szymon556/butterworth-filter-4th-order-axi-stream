@@ -15,7 +15,7 @@ The AXI4-Stream based architecture allows seamless integration into FPGA-based D
 
 
 #### Second-order Butterworth filter (single biquad)
-c
+![Second order Butterworth](Images/Second_Order_IIR.png)
 This plot presents the frequency response of a single second-order Butterworth IIR filter (biquad).
 
 
@@ -27,7 +27,7 @@ The purpose of this configuration is to demonstrate the effect of cascading biqu
 
 ### MATLAB vs FPGA implementation (SOS with different coefficients)
 
-![MATLAB vs FPGA comparison](images/Fourth_Order_IIR.png)
+![MATLAB vs FPGA comparison](Images/Fourth_Order_IIR.png)
 
 This plot compares the MATLAB reference model with the FPGA implementation of the fourth-order Butterworth filter.
 The final design uses a cascade of two biquad sections with different coefficients, derived from a second-order section (SOS) decomposition.
