@@ -11,3 +11,8 @@ The AXI4-Stream based architecture allows seamless integration into FPGA-based D
 - AXI4-Stream based dataflow
 - FPGA implementation using DSP48E1 slices
 - MATLAB reference model and verification
+
+
+
+Second Order Butterworh filter comparison with matlab symulation
+![Second Order IIR](images/Fourth_Order_IIR.png)
