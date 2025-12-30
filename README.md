@@ -15,4 +15,4 @@ The AXI4-Stream based architecture allows seamless integration into FPGA-based D
 
 
 Second Order Butterworh filter comparison with matlab symulation
-![Second Order IIR](images/Fourth_Order_IIR.png)
+![Second Order IIR](Images/Fourth_Order_IIR.png)
